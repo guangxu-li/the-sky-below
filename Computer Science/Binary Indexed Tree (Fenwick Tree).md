@@ -1,4 +1,4 @@
-#algorithm #data-structure #prefix-sum
+#algorithm #data-structure #snippet 
 
 # Illustration
 
