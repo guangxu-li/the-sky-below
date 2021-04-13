@@ -1,10 +1,10 @@
 #software-development #python #development-environment
 
-# Setup Python Environment
+# Setup [[Python]] Environment
 
 ## Introduction
 
-Things could be complicated for Apple ecosystem since macos has built-in [[Python.md]] environment. The built-in Python 2.7 locating in `/usr/bin/` should never be touched. It's has been deprecated, but Apple still include it for compatibility purpose.
+Things could be complicated for Apple ecosystem since macos has built-in [[Python]] environment. The built-in Python 2.7 locating in `/usr/bin/` should never be touched. It's has been deprecated, but Apple still include it for compatibility purpose.
 
 For some situation, xcode `CommandLineTools` is required to be installed, which comes along with a Python 3.x also locating at `/usr/bin`.
 

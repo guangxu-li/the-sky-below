@@ -1,0 +1,20 @@
+.site-footer a {
+	visibility: hidden !important;
+}
+
+:root {
+	--rem: 16px;
+	--editor-font-size: 16px;
+	--font-normal: 16px;
+	--max-width: 100% !important;
+	--line-width: 100rem !important;
+}
+
+span[class*="token"] {
+	background: hsla(0, 0%, 100%, 0) !important;
+}
+
+pre[class*="language-"], code[class*="language-"] {
+	font-family: "SF Mono", monospace !important;
+	font-size: 14px !important;
+}
