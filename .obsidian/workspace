@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "6146c53187148675",
+    "type": "split",
+    "children": [
+      {
+        "id": "11b615c263a8d366",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Computer Science/Time Complexity.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "05a511a2d9855aa4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "About This Place.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8bbd1081d74f0738",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1fdd12c35d6f717",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a2bad1bbed02b98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cf26f1e5314a932f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6150c7357a6ace21",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3123e2dfd209996a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a5fdc4715b9e2ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9cdec8b00926cfc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "About This Place.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e33e9957d8568203",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "About This Place.md"
+              }
+            }
+          },
+          {
+            "id": "80c50672bb1db547",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "05a511a2d9855aa4",
+  "lastOpenFiles": [
+    "README.md",
+    "Computer Science/Binary Indexed Tree (Fenwick Tree).md",
+    "Computer Science/A* Search.md",
+    "Computer Science/Integer Prime Factorization.md",
+    "Computer Science/Time Complexity.md",
+    "Complexity.md",
+    "Computer Science/KMP.md",
+    "Computer Science/Untitled.md",
+    "Computer Science/Space Complexity.md",
+    "Computer Science/Trie.md"
+  ]
+}
