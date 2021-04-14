@@ -1,5 +1,3 @@
-#cocktail 
-
 # Mai Tai
 [[Old-fashioned Glass]]
 

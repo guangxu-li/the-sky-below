@@ -1,4 +1,3 @@
-#algorithm #snippet
 # Implementation
 
 ```python

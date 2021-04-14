@@ -1,4 +1,3 @@
-#algorithm #string-match #snippet
 ```python
 from collections import defaultdict
 from functools import reduce

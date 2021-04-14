@@ -1,11 +1,9 @@
-#algorithm #data-structure #snippet 
-
 # Illustration
 
 ![BIT](https://codeforces.com/predownloaded/13/45/1345c040329da04363d61ef44be495950fc9ac55.gif)
 
 # Implementation
-Index 0 should not be used and acts as the root of the tree:
+Index 0 should not be used and acts as the root of the [[tree]]:
 ```python
 from math import log2, trunc
 

@@ -1,6 +1,6 @@
-#algorithm #path-search #snippet 
-
 # Description
+ 
+**A\*** is a [[Graph#Graph Traversal | graph traversal]] and [[Graph#Path Search | path search]] algorithm.
 
 - At each iteration of its main loop, A* needs to determine which of its paths to extend. It does so based on the cost of the path and an estimate of the cost required to extend the path all the way to the goal.
 

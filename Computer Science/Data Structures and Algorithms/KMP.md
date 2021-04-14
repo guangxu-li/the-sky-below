@@ -1,5 +1,3 @@
-#algorithm #pattern-search #snippet 
-
 The **Knuth-Morris-Pratt (KMP) algorithm** is an algorithm that is used to search for a substring (`W`), in a given string (`S`), in O(m+n)O(m+n) time (where m and n are the lengths of `W` and `S`).
 
 # Key idea

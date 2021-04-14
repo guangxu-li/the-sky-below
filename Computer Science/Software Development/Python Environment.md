@@ -1,4 +1,4 @@
-#software-development #python #development-environment
+#development-environment
 
 # Setup [[Python]] Environment
 

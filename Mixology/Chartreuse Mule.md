@@ -1,4 +1,3 @@
-#cocktail
 # Chartreuse Mule
 [[Collins Glass]]
 
